@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Buddha Quotes</string>
+    <string-array name="quote">
+        <item>Just as the great oceans have but one taste, the taste of salt, so too there is but one taste fundamental to all true teachings of the way, and this is the taste of freedom.</item>
+        <item>Time and tide wait for no man</item>
+        <item>Believe there is good in the word</item>
+        <item>If anything is worth doing,do it with all your heart</item>
+        <item>Those who are free of resentful thoughts csurely find peace</item>
+        <item>The wise have mastered  body,word,mind.They are the true masters</item>
+        <item>Resolutely train yoursself to attain peace</item>
+        <item>Most problems, if you give them enough time and space,will eventually wear themself out</item>
+        <item>Aim for success, not perfection. Never give up because you will lose the ability to learn new things</item>
+        <item>three things cannot be long hidden;the sun,the moon and the truth</item>
+
+
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+
+    <string-array name="author">
+    <item>Buddha</item>
+    <item>Buddha</item>
+    <item>Buddha</item>
+    <item>Buddha</item>
+    <item>Buddha</item>
+    <item>Buddha</item>
+    <item>Buddha</item>
+    <item>Buddha</item>
+    <item>Buddha</item>
+    <item>Buddha</item>
+
+
+
+
+
+    </string-array>
+    >
+</resources>
